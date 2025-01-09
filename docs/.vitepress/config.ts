@@ -29,7 +29,7 @@ export default defineConfig({
             { text: 'Hypervisor', link: '/journeys/edclub/infrastructure-overview/hypervisor' },
             { text: 'Automation', link: '/journeys/edclub/infrastructure-overview/automation' },
             { text: 'Connectivity', link: '/journeys/edclub/infrastructure-overview/connectivity' },
-            { text: 'Monitoring', link: '/journeys/edclub/infrastructure/monitoring' },
+            { text: 'Monitoring', link: '/journeys/edclub/infrastructure-overview/monitoring' },
           ],
         },
         {
