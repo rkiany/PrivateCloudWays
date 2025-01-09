@@ -30,3 +30,6 @@ export TF_VAR_pm_api_url="https://192.168.10.21:8006/api2/json"
 export PM_API_TOKEN_ID='terraform-prov@pve!terraform-token'
 export PM_API_TOKEN_SECRET='long-secret'
 ```
+where the IP: 192.168.10.21 is the ip of any of the nodes.
+
+Once you have created your first VM or LXC via Terraform, you are ready! Creating both from a template such as Ubuntu LXC are documented [here](https://registry.terraform.io/providers/Telmate/proxmox/latest/docs/resources/lxc).
