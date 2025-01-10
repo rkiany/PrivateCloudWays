@@ -30,6 +30,8 @@ export default defineConfig({
             { text: 'Automation', link: '/journeys/edclub/infrastructure-overview/automation' },
             { text: 'Connectivity', link: '/journeys/edclub/infrastructure-overview/connectivity' },
             { text: 'Monitoring', link: '/journeys/edclub/infrastructure-overview/monitoring' },
+            { text: 'Backups', link: '/journeys/edclub/infrastructure-overview/backups' },
+
           ],
         },
         {
